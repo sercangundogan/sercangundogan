@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sercangundogan" alt="sercangundogan" /></a> </p>
 
-- 💬 Ask me about **React, Redux, HTML, CSS, JS, Python, Django, Docker**
+- 💬 Ask me about **React, Next.js, Redux, HTML, CSS, JS, Docker**
 
 - 📫 How to reach me **sercangundogan35@gmail.com**
 
