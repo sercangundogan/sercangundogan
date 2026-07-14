@@ -23,4 +23,4 @@ subscriptions, usage limits and payment integrations.
 
 ## Links
 
-LinkedIn · Portfolio · Rewordly
+[LinkedIn](https://www.linkedin.com/in/sercangundogan) · [Portfolio](https://sercangundogan.com) · [Rewordly](https://rewordly.store)
