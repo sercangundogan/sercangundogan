@@ -5,12 +5,26 @@ enterprise SaaS and independent products with React, TypeScript, Next.js, and Re
 
 Currently at [Sociality.io](https://sociality.io) on a platform serving 100+ enterprise
 customers across 20+ countries, and shipping independent products such as
-[Rewordly](https://rewordly.store), [Seoneer](https://seoneer.vercel.app), and [Livoic](https://github.com/sercangundogan/livoic).
+[Rewordly](https://rewordly.store), [Seoneer](https://seoneer.vercel.app), [Livoic](https://github.com/sercangundogan/livoic), and [Brandisy](https://brandisy.io).
 
 ## What I work with
 
 React · TypeScript · Next.js · React Native · Redux Toolkit
 Node.js · Python · Docker · GitHub Actions · Cloudflare
+
+## Competitions
+
+### HackerRank Orchestrate — Buy or Wait?
+September 2026 [24-hour Orchestrate hackathon](https://www.hackerrank.com/hackerrank-orchestrate-september26).
+Placed 225th of 3,062, inside the top 8%.
+I built a complete financial agent that answers “Can I afford this?” for 250 evaluation
+requests: reconstruct cashflow from profiles, events, messages, and images, then decide
+full payment, partial payment, installments, wait, or not proceed — only if the 90-day
+forecast stays above the user’s minimum balance.
+
+Python · OpenAI vision · deterministic forecasting · output validation
+
+[GitHub](https://github.com/sercangundogan/hackerrank-orchestrate-september26)
 
 ## Featured projects
 
@@ -51,16 +65,12 @@ Next.js · TypeScript · MongoDB · Uploadcare · Cloudinary · Magic Hour
 
 [GitHub](https://github.com/sercangundogan/ai-video-transformer) · [Live demo](https://ai-video-transformer-one.vercel.app)
 
-### HackerRank Orchestrate — Buy or Wait?
-September 2026 [24-hour Orchestrate hackathon](https://www.hackerrank.com/hackerrank-orchestrate-september26).
-I built a complete financial agent that answers “Can I afford this?” for 250 evaluation
-requests: reconstruct cashflow from profiles, events, messages, and images, then decide
-full payment, partial payment, installments, wait, or not proceed — only if the 90-day
-forecast stays above the user’s minimum balance.
+### Brandisy
+AI brand-kit generator. A business idea becomes a name, logo, color palette, typography,
+guidelines, and a downloadable asset pack.
+Next.js · TypeScript · Supabase · OpenAI
 
-Python · OpenAI vision · deterministic forecasting · output validation
-
-[GitHub](https://github.com/sercangundogan/hackerrank-orchestrate-september26)
+[GitHub](https://github.com/sercangundogan/brandisy) · [Website](https://brandisy.io)
 
 ## Also
 
